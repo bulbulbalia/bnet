@@ -1,0 +1,109 @@
+#EXTM3U
+
+#EXTINF:-1,Bein Sports 1 
+http://otv.ftpbd.net:1932/X6RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOezN/bein-sports-1/chunks.m3u8
+
+#EXTINF:-1,Bein Sports 2
+http://otv.ftpbd.net:1932/X6RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOezN/bein-sports-2/chunks.m3u8
+
+#EXTINF:-1, Bein Sports FR1
+http://otv.ftpbd.net:1932/X6RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOezN/bein-sports-fr-1/chunks.m3u8
+
+#EXTINF:-1,Star Sports 1
+http://otv.ftpbd.net:1932/X6RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOezN/starsports-1/chunks.m3u8
+
+#EXTINF:-1,Star Sporst Hindi 1
+http://otv.ftpbd.net:1932/X6RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOezN/starsports-1-hind/chunks.m3u8
+
+#EXTINF:-1,Star Sports HD 2
+http://otv.ftpbd.net:1932/X6RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOezN/starsportshd-2/chunks.m3u8
+
+#EXTINF:-1,Star Sports Select 1
+http://otv.ftpbd.net:1932/X6RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOezN/starsportsselect-1/chunks.m3u8
+
+#EXTINF:-1,Star Sports Select 2
+http://otv.ftpbd.net:1932/X6RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOezN/starsportsselect-2/chunks.m3u8
+
+#EXTINF:-1,Sony Ten 1
+http://otv.ftpbd.net:1932/X6RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOezN/sonyten-1/chunks.m3u8
+
+#EXTINF:-1,Sony Ten 2
+http://otv.ftpbd.net:1932/X6RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOezN/sonyten-2/chunks.m3u8
+
+#EXTINF:-1,Sony ESPN
+http://otv.ftpbd.net:1932/X6RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOezN/sonyespn/chunks.m3u8
+
+#EXTINF:-1,PTV Sprts
+http://otv.ftpbd.net:1932/X6RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOezN/ptvsports/chunks.m3u8
+
+#EXTINF:-1,Willow Cricket
+http://otv.ftpbd.net:1932/X6RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOezN/willow-cric/chunks.m3u8
+
+#EXTINF:-1,Channel 9
+http://otv.ftpbd.net:1932/X6RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOezN/channel9/chunks.m3u8
+
+#EXTINF:-1,Zee Cinema
+http://otv.ftpbd.net:1932/X6RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOezN/zee-cinema/chunks.m3u8
+
+#EXTINF:-1,HBO
+http://otv.ftpbd.net:1932/X6RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOezN/hbo/chunks.m3u8
+
+#EXTINF:-1,Nick
+http://otv.ftpbd.net:1932/X6RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOezN/nick/chunks.m3u8
+
+#EXTINF:-1,Sony Pix
+http://otv.ftpbd.net:1932/X6RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOezN/sony-pix/chunks.m3u8
+
+#EXTINF:-1,Colors Bangla
+http://otv.ftpbd.net:1932/X6RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOezN/colors-bangla/chunks.m3u8
+
+#EXTINF:-1,Star Gold Select
+http://otv.ftpbd.net:1932/X6RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOezN/star-gold-select/chunks.m3u8
+
+#EXTINF:-1,National Geography
+http://otv.ftpbd.net:1932/X6RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOezN/natg/chunks.m3u8
+
+#EXTINF:-1,Zee Bangla
+http://otv.ftpbd.net:1932/X6RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOezN/zee-bangla/chunks.m3u8
+
+#EXTINF:-1,Star Movies
+http://otv.ftpbd.net:1932/X6RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOezN/star-movies/chunks.m3u8
+
+#EXTINF:-1,Sony Six
+http://otv.ftpbd.net:1932/X6RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOezN/sonysix/chunks.m3u8
+
+#EXTINF:-1,Sony Ten 1
+http://otv.ftpbd.net:1932/X6RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOezN/sonyten-1/chunks.m3u8?rand=(random)
+
+#EXTINF:-1,Sony Max 2
+http://otv.ftpbd.net:1932/X6RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOezN/sony-max-2/chunks.m3u8
+
+#EXTINF:-1,Zee Tv
+http://otv.ftpbd.net:1932/X6RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOezN/zee-tv/chunks.m3u8
+
+#EXTINF:-1,Sony Sab
+http://otv.ftpbd.net:1932/X6RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOezN/sony-sab/chunks.m3u8
+
+#EXTINF:-1,Star Plus
+http://otv.ftpbd.net:1932/X6RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOezN/star-plus/chunks.m3u8
+
+#EXTINF:-1,Colors
+http://otv.ftpbd.net:1932/X6RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOezN/colors/chunks.m3u8
+
+#EXTINF:-1,Sony HD
+http://otv.ftpbd.net:1932/X6RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOezN/sonyhd/chunks.m3u8
+
+#EXTINF:-1,Star Jalsha
+http://otv.ftpbd.net:1932/X6RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOezN/star-jalsha/chunks.m3u8
+
+#EXTINF:-1,Sony Max
+http://otv.ftpbd.net:1932/X6RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOezN/sony-max/chunks.m3u8
+
+#EXTINF:-1,Star Gold
+http://otv.ftpbd.net:1932/X6RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOezN/star-gold/chunks.m3u8
+
+#EXTINF:-1,Gazi TV
+http://otv.ftpbd.net:1932/X6RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOezN/gazi-tvs/chunks.m3u8
+
+#EXTINF:-1,Zee Cinema Bangla
+http://otv.ftpbd.net:1932/X6RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOezN/zee-cinema-bangla/chunks.m3u8
